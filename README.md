@@ -1,5 +1,5 @@
 # get_next_line
-A C function that reads any valid file line by line until the end.
+A `C` function that reads any valid file line by line until the end.
 
 My version of the 42 cadet project `get_next_line`.
 
