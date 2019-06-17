@@ -1,7 +1,7 @@
+This is my version of the **[42](https://www.42.us.org/)** cadet project `get_next_line`.
+
 # get_next_line
 A `C` function that reads any valid file, line by line, until the end.
-
-This is my version of the **[42](https://www.42.us.org/)** cadet project `get_next_line`.
 
 It uses linked lists, and I created a data structure `t_gnl` for it.
 
